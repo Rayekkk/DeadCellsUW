@@ -1,0 +1,11 @@
+# old third-party 3DMigoto mod kept locally for reference only (not ours)
+Dead.Cells.Ultrawide.Fix/
+
+# build outputs (the dll is shipped via GitHub Releases)
+release/libhl_uw.dll
+patcher/proxy/*.o
+patcher/proxy/*.a
+patcher/proxy/*.exe
+patcher/proxy/*.def
+__pycache__/
+*.zip
